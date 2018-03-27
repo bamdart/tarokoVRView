@@ -4,4 +4,10 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/start.unity
+    guid: d614d8eb66774b849a4a619568cef5db
+  - enabled: 0
+    path: Assets/Samples/HelloVR/Scenes/HelloVR.unity
+    guid: 0f74396baa8c08b45999d234222160cb
